@@ -1,0 +1,15 @@
+Files which were created in August.
+
+Includes the following:
+
+beautifultimestables - a visualization of the modulo m times table wrapped around a circle. This produces caustic curves such as cardioids and nephroids
+delaunay - an implementation of the Bowyer-Watson Algorithm for generating the Delaunay triangulation of a set of points.
+mazegenerator - an implementation of six algorithms. The first of which is a modification of kruskal's algorithm to randomly generate a maze. The other five are pathfinding 
+                algorithms which solve the maze. These include DFS, BFS, A*, Dijkstra's and Best First Search
+raycasting - an implementation of two dimenstional raycasting with a field of view, as well as the 3d visualization aking to first person games.
+sierpinski_polygons - an implementation of a recursive algorithm to generate sierpinski's triangle, as well as polygons which follow the same rule
+spanningtree - an implementation of spanning tree algorithms, namely: DFS, BFS, Prim's and Kruskal's
+stablemarriage - an implementation of the Gale-Shapley algorithm to solve the stable marriage problem.
+visualsort - an implementation of various soritng algoriths and an accompanying visualization. These include quicksort, shellsort, mergesort, radix sort (LSD, and MSD), and selection
+             sort
+
