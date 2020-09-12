@@ -1,4 +1,4 @@
-# The following is a function which will draw the sierpinski triangle on screen
+# The following is a program which will draw the sierpinski triangle on screen
 
 import pygame
 import sys
